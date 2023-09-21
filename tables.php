@@ -147,37 +147,13 @@
                             <div class="bs-example">
                                 <div class="bg-light clearfix">
                                    <span>
-                                            <div class="form-check form-check-inline">
-                                                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
-                                                <label class="form-check-label" for="inlineRadio1">ทั้งหมด</label>
-                                            </div>
-                                            
-                                            <div class="form-check form-check-inline">
-                                                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-                                                <label class="form-check-label" for="inlineRadio2">แพ๊กหลัก</label>
-                                            </div>
-
-                                            <div class="form-check form-check-inline">
-                                                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3" >
-                                                <label class="form-check-label" for="inlineRadio3">เพ็กเสริม</label>
-                                            </div>
-
-                                            <div class="form-check form-check-inline">
-                                                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-                                                <label class="form-check-label" for="inlineRadio2">แบบตาราง</label>
-                                            </div>
-                                            
-                                            <div class="form-check form-check-inline">
-                                                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3" >
-                                                <label class="form-check-label" for="inlineRadio3">แบบบล็อก</label>
-                                            </div>
 
                                     </span>   
-                                             <button type="button" class="btn btn-success float-right ml-2"><i class="bi bi-floppy"></i> RegistVN</button>    
+                                             <button type="button" class="btn btn-success float-right ml-2"> บันทึก</button>    
                                               
-                                             <button type="button" class="btn btn-info  float-right ml-2"> <i class="bi bi-reply-fill"></i> Cxl VN</button>
+                                        
 
-                                             <button type="button" class="btn btn-danger float-right ml-2"> <i class="bi bi-x-circle"></i> Clear   </button>
+                                             <button type="button" class="btn btn-danger float-right ml-2"> ยกเลิก</button>
                                              
                                 </div>
                             </div>
